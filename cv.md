@@ -27,3 +27,9 @@
 
 ### About me
 My name is Yauheni, i am 25 y.o.. Since i passed 2-years mandatory work after studying in university i decided to change my activity. My purpose is to become front-end developer because nowadays IT scope actively progressing and being in demand. I have an 2-years experience of working in a team as a brigade chief on a gas factory. My main ability was to find a way out of any problem or difficult situation i faced.
+### Code example:
+```let myArray = [2,4,6,8,10,12,14];
+for (i=0; i<myArray.length; i++) {
+    myArray[i] *= 2;
+};
+```
